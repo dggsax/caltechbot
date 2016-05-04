@@ -1,4 +1,4 @@
-# MITBot
+# CALTECHBot
 
 Uses python-rtmbot
 Requires Python 2.7, unfortunately
